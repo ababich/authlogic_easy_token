@@ -15,6 +15,6 @@
 
 === Release Notes
 
-rev. 1
-(c)Alexey Babich, 2009
+  rev. 1
+  (c)Alexey Babich, 2009
   
