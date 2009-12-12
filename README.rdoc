@@ -6,15 +6,15 @@
   
 === 2. Now it works
 
-  Your perishable_tokens become easy - 10-chars strings - manual input and even remeber it is not so hard
+  Your perishable_tokens become easy - 10-chars strings - manual input and even remember it is not so hard
 
 === Notes
 
   You should realize security risks using Easy Tokens.
-  Recommended usage: activation via SMS or smth like this that may require manual input
+  Recommended usage: activation via SMS or smth like this that may require manual input.
 
 === Release Notes
 
-rev. 1
-(c)Alexey Babich, 2009
+  rev. 1
+  (c)Alexey Babich, 2009
   
